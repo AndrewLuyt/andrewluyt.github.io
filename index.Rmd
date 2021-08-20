@@ -8,6 +8,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+I'm a data analyst in Vancouver, Canada, and these are my public projects.
+
 ![Animated map of Chicago showing bicycle traffic patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/all%20traffic%20flow%20mapped%20fine%20detail%20zoomed-1.gif)
 
 - [Data analytics on Chicago's Divvy Bikeshare](https://andrewluyt.github.io/divvy-bikeshare/) (GitHub project)<br>An analysis of the public dataset from *Divvy*, a bike sharing service in Chicago. Traffic patterns are visualized and the differences between *Divvy* members and casual users are explored.<br><br>

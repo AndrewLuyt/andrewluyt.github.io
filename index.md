@@ -2,6 +2,9 @@ Andrew Luyt’s Projects
 ================
 Last updated 2021-08-19
 
+I’m a data analyst in Vancouver, Canada, and these are my public
+projects.
+
 ![Animated map of Chicago showing bicycle traffic
 patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/all%20traffic%20flow%20mapped%20fine%20detail%20zoomed-1.gif)
 

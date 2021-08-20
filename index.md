@@ -8,7 +8,10 @@ patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/fig
 
 -   [Data analytics on Chicago’s Divvy
     Bikeshare](https://andrewluyt.github.io/divvy-bikeshare/) (GitHub
-    project) ![Map of Chicago showing bicycle stations coloured by
+    project)<br>This is an analysis of the public dataset of *Divvy*, a
+    bike sharing service in Chicago. Traffic patterns are visualized and
+    the differences between *Divvy* members and casual users are
+    explored.<br> ![Map of Chicago showing bicycle stations coloured by
     preferred user type and showing geographic
     patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/member%20vs%20casual%20usage%20map%20over%2070-1.png)
 -   [Evidence for social unrest in a bicycle use

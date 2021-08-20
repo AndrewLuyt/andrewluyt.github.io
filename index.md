@@ -1,6 +1,17 @@
-Rmd title
+Andrew Luyt’s Projects
 ================
 Andrew Luyt
-19/08/2021
+Last updated 2021-08-19
 
-Default content.
+![Animated map of Chicago showing bicycle traffic
+patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/all%20traffic%20flow%20mapped%20fine%20detail%20zoomed-1.gif)
+
+-   [Data analytics on Chicago’s Divvy
+    Bikeshare](https://andrewluyt.github.io/divvy-bikeshare/) (GitHub
+    project) ![Map of Chicago showing bicycle stations coloured by
+    preferred user type and showing geographic
+    patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/member%20vs%20casual%20usage%20map%20over%2070-1.png)
+-   [Evidence for social unrest in a bicycle use
+    dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
+    (Kaggle notebook) ![Graph of vectors illustrating bicycle traffic
+    flow by month](./img/unrest.png)

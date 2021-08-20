@@ -13,9 +13,10 @@ patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/fig
     explored.<br><br> ![Map of Chicago showing bicycle stations coloured
     by preferred user type and showing geographic
     patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/member%20vs%20casual%20usage%20map%20over%2070-1.png)
+    <br>
 -   [Evidence for social unrest in a bicycle use
     dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
     (Kaggle notebook)<br>Exploratory data analysis of the *Divvy*
     dataset leads to a surprising signal hiding in the data.<br><br>
     ![Graph of vectors illustrating bicycle traffic flow by
-    month](./img/unrest.png)
+    month](./img/unrest.png) <br>

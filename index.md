@@ -21,7 +21,7 @@ patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/fig
 ## [Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 
 Exploratory data analysis of the *Divvy* dataset leads to a surprising
-signal hiding in the data. Hosted on Kaggle as a notebook.
+signal hiding in the data. *Hosted on Kaggle as a notebook.*
 
 ![Graph of vectors illustrating bicycle traffic flow by
 month](./img/unrest.png)

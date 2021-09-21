@@ -1,6 +1,6 @@
 Andrew Luyt’s Projects
 ================
-Last updated 2021-09-17
+Last updated 2021-09-21
 
 I’m a data analyst in Vancouver, Canada, and these are my public
 projects.
@@ -15,6 +15,8 @@ between yearly members and casual users are explored.
 
 [![Animated map of Chicago showing bicycle traffic
 patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/all%20traffic%20flow%20mapped%20fine%20detail%20zoomed-1.gif)](https://andrewluyt.github.io/divvy-bikeshare/)
+
+------------------------------------------------------------------------
 
 ## [2. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 

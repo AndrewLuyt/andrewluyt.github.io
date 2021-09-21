@@ -17,7 +17,7 @@ Traffic volume and flow patterns are visualized, and the differences between yea
 
 [![Animated map of Chicago showing bicycle traffic patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/all%20traffic%20flow%20mapped%20fine%20detail%20zoomed-1.gif)](https://andrewluyt.github.io/divvy-bikeshare/)
 
-
+----
 
 ## [2. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 Exploratory data analysis of the *Divvy* dataset leads to a surprising signal hiding in the data. *Hosted on Kaggle.com as a notebook.*

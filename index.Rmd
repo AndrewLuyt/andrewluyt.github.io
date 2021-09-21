@@ -8,7 +8,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[![LinkedIn icon](img/li-icon.png) My LinkedIn](https://www.linkedin.com/in/andrew-luyt/)
+[![LinkedIn icon](img/li-icon.png) My LinkedIn](https://www.linkedin.com/in/andrew-luyt/){target="_blank"}
 
 I'm a data analyst in Vancouver, Canada, and these are my public projects. 
 

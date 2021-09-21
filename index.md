@@ -2,8 +2,7 @@ Andrew Luyt’s Projects
 ================
 Last updated 2021-09-21
 
-[![LinkedIn icon](img/li-icon.png) My
-LinkedIn](https://www.linkedin.com/in/andrew-luyt/)
+<a href="https://www.linkedin.com/in/andrew-luyt/" target="_blank"><img src="img/li-icon.png" alt="LinkedIn icon" /> My LinkedIn</a>
 
 I’m a data analyst in Vancouver, Canada, and these are my public
 projects.

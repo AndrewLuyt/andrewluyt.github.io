@@ -8,6 +8,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+[![LinkedIn icon](img/li-icon.png) My LinkedIn](https://www.linkedin.com/in/andrew-luyt/)
+
 I'm a data analyst in Vancouver, Canada, and these are my public projects. 
 
 ![Cropped map of Chicago comparing weekday and weekend traffic volume](./img/chicago-crop-banner.png)

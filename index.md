@@ -24,9 +24,9 @@ patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/fig
 ## [2. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
 
 **Extensive data cleaning** of an old NOAA dataset is required to
-examine the most costly, in terms of human and financial damage, types
-of weather events in the USA. Done as a final project in the Johns
-Hopkins course *Reproducible Research.*
+discover the most costly types of weather events in the USA, in terms of
+human and financial damage. Done as a final project in the Johns Hopkins
+course *Reproducible Research.*
 
 [![Graph of injuries from weather events. Tornadoes are the
 worst.](./img/injuries-graph.png)](https://rpubs.com/agl/852813)

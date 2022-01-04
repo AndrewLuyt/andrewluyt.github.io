@@ -8,7 +8,7 @@ I’m a data analyst in Vancouver, Canada, and these are my public
 projects.
 
 ![Cropped map of Chicago comparing weekday and weekend traffic
-volume](./img/chicago-crop-banner.png)
+volume](./img/chicago-crop-banner2.png)
 
 ## [1. Data analytics: Chicago’s Divvy Bikeshare](https://andrewluyt.github.io/divvy-bikeshare/)
 

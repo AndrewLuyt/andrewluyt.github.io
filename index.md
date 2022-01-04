@@ -1,6 +1,6 @@
 Andrew Luyt’s Projects
 ================
-Last updated 2021-09-21
+Last updated 2022-01-04
 
 <a href="https://www.linkedin.com/in/andrew-luyt/" target="_blank"><img src="img/li-icon.png" alt="LinkedIn icon" /> My LinkedIn</a>
 
@@ -21,7 +21,19 @@ patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/fig
 
 ------------------------------------------------------------------------
 
-## [2. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
+## [2. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
+
+**Extensive data cleaning** of an old NOAA dataset is required to
+examine the most costly, in terms of human and financial damage, types
+of weather events in the USA. Done as a final project in the Johns
+Hopkins course *Reproducible Research.*
+
+[![Graph of injuries from weather events. Tornadoes are the
+worst.](./img/injuries-graph.png)](https://rpubs.com/agl/852813)
+
+------------------------------------------------------------------------
+
+## [3. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 
 **Exploratory visual data analysis** of the *Divvy* dataset leads to a
 surprising signal hiding in the data. *Hosted on Kaggle.com as a

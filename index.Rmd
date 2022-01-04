@@ -21,7 +21,16 @@ I'm a data analyst in Vancouver, Canada, and these are my public projects.
 
 ----
 
-## [2. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
+## [2. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
+**Extensive data cleaning** of an old NOAA dataset is required to examine the
+most costly, in terms of human and financial damage, types of weather events in
+the USA. Done as a final project in the Johns Hopkins course *Reproducible Research.*
+
+[![Graph of injuries from weather events. Tornadoes are the worst.](./img/injuries-graph.png)](https://rpubs.com/agl/852813)
+
+----
+
+## [3. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 **Exploratory visual data analysis** of the *Divvy* dataset leads to a surprising signal hiding in the data. *Hosted on Kaggle.com as a notebook.*
 
 [![Graph of vectors illustrating bicycle traffic flow by month](./img/unrest.png)](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)

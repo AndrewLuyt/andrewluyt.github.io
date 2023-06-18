@@ -10,12 +10,22 @@ projects.
 
 <figure>
 <img src="./img/chicago-crop-banner2.png"
-alt="Cropped map of Chicago showing member vs non-member station use" />
-<figcaption aria-hidden="true">Cropped map of Chicago showing member vs
-non-member station use</figcaption>
+alt="A cropped map of Chicago showing traffic at bike-sharing stations" />
+<figcaption aria-hidden="true">A cropped map of Chicago showing traffic
+at bike-sharing stations</figcaption>
 </figure>
 
-## [1. A brief analysis: Vancouver’s Mobi Bikeshare](https://rpubs.com/agl/mobi)
+## [1. AI-Assisted Exercise](https://andrewluyt.github.io/accelerometer-predictions/)
+
+[![AI-Generated
+image](img/ai_exercise_small.png)](https://andrewluyt.github.io/accelerometer-predictions/)
+
+I built an AI model that can check if a person’s form is incorrect
+during weightlifting, using data from a wearable smart device.
+
+------------------------------------------------------------------------
+
+## [2. A brief analysis: Vancouver’s Mobi Bikeshare](https://rpubs.com/agl/mobi)
 
 **Three visualizations** are prepared to quickly demonstrate traffic
 flow, station usage, and seasonal ride variation for the bike sharing
@@ -26,7 +36,7 @@ patterns](./img/mobi-traffic-vectors.gif)](https://rpubs.com/agl/mobi/)
 
 ------------------------------------------------------------------------
 
-## [2. Detailed analytics: Chicago’s Divvy Bikeshare](https://andrewluyt.github.io/divvy-bikeshare/)
+## [3. Detailed analytics: Chicago’s Divvy Bikeshare](https://andrewluyt.github.io/divvy-bikeshare/)
 
 **Using a dataset of over four million bicycle rides,** traffic volume
 and flow patterns are visualized, and the differences between yearly
@@ -35,16 +45,6 @@ more detail than in the Mobi analysis.
 
 [![Animated map of Chicago showing bicycle traffic
 patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/figure-gfm/all%20traffic%20flow%20mapped%20fine%20detail%20zoomed-1.gif)](https://andrewluyt.github.io/divvy-bikeshare/)
-
-------------------------------------------------------------------------
-
-## [3. AI-Assisted Exercise](https://andrewluyt.github.io/accelerometer-predictions/)
-
-[![AI-Generated
-image](img/ai_exercise_small.png)](https://andrewluyt.github.io/accelerometer-predictions/)
-
-I built an AI model that can check if a person’s form is incorrect
-during exercise, using data from a wearable smart device.
 
 ------------------------------------------------------------------------
 

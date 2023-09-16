@@ -1,6 +1,6 @@
 Andrew Luyt’s Projects
 ================
-Last updated 2023-06-17
+Last updated 2023-09-16
 
 <a href="https://www.linkedin.com/in/andrew-luyt/" target="_blank"><img
 src="img/li-icon.png" alt="LinkedIn icon" /> My LinkedIn</a>
@@ -25,14 +25,14 @@ during weightlifting, using data from a wearable smart device.
 
 ------------------------------------------------------------------------
 
-## [2. A brief analysis: Vancouver’s Mobi Bikeshare](https://rpubs.com/agl/mobi)
+## [2. A brief analysis: Vancouver’s Mobi Bikeshare](https://andrewluyt.github.io/mobi-bikeshare-viz/)
 
 **Three visualizations** are prepared to quickly demonstrate traffic
 flow, station usage, and seasonal ride variation for the bike sharing
 network.
 
 [![Animated map of Vancouver showing bicycle traffic
-patterns](./img/mobi-traffic-vectors.gif)](https://rpubs.com/agl/mobi/)
+patterns](./img/mobi-traffic-vectors.gif)](https://andrewluyt.github.io/mobi-bikeshare-viz/)
 
 ------------------------------------------------------------------------
 

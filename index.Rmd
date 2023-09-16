@@ -40,7 +40,16 @@ data are explored in much more detail than in the Mobi analysis.
 
 ----
 
-## [4. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
+## [4. Discovering similar documents with linear algebra](https://andrewluyt.github.io/document_dissimilarity/)
+
+**Computing numeric similarity between text documents** on Wikipedia. Two linear
+algebra-based techniques are discussed and implemented
+
+[![Graph showing numeric similarity between Wikipedia pages](https://andrewluyt.github.io/document_dissimilarity/document_dissim.png)](https://andrewluyt.github.io/document_dissimilarity/)
+
+----
+
+## [5. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
 **Extensive data cleaning** of an old NOAA dataset is required to discover the
 most costly types of weather events in the USA, in terms of human and financial 
 damage. Done as a final project in the Johns Hopkins course *Reproducible Research*,
@@ -50,7 +59,7 @@ it is presented with inline R code.
 
 ----
 
-## [5. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
+## [6. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 **Exploratory visual data analysis** of the *Divvy* dataset leads to a surprising signal hiding in the data. *Hosted on Kaggle.com as a notebook.*
 
 [![Graph of vectors illustrating bicycle traffic flow by month](./img/unrest.png)](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)

@@ -48,7 +48,17 @@ patterns](https://andrewluyt.github.io/divvy-bikeshare/analysis-report_files/fig
 
 ------------------------------------------------------------------------
 
-## [4. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
+## [4. Discovering similar documents with linear algebra](https://andrewluyt.github.io/document_dissimilarity/)
+
+**Computing numeric similarity between text documents** on Wikipedia.
+Two linear algebra-based techniques are discussed and implemented
+
+[![Graph showing numeric similarity between Wikipedia
+pages](https://andrewluyt.github.io/document_dissimilarity/document_dissim.png)](https://andrewluyt.github.io/document_dissimilarity/)
+
+------------------------------------------------------------------------
+
+## [5. Destructive Weather Events, 1950-2011](https://rpubs.com/agl/852813)
 
 **Extensive data cleaning** of an old NOAA dataset is required to
 discover the most costly types of weather events in the USA, in terms of
@@ -60,7 +70,7 @@ worst.](./img/injuries-graph.png)](https://rpubs.com/agl/852813)
 
 ------------------------------------------------------------------------
 
-## [5. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
+## [6. Evidence for social unrest in a bicycle use dataset](https://www.kaggle.com/andyinverted/evidence-for-social-unrest-in-bicycle-usage-data)
 
 **Exploratory visual data analysis** of the *Divvy* dataset leads to a
 surprising signal hiding in the data. *Hosted on Kaggle.com as a
